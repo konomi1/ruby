@@ -1,0 +1,2 @@
+name="konomi"
+puts name
